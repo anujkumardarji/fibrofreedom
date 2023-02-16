@@ -1,0 +1,7 @@
+{
+  "name": "fibrofreedom",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
